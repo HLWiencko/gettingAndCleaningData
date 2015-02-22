@@ -1,5 +1,4 @@
-JHU Getting and Cleaning Data (Course 3 in Data Analysis Specialization)
-========================================================================
+## JHU Getting and Cleaning Data (Course 3 in Data Analysis Specialization)
 
 This repo contains scripts and data for the peer-reviewed assignment for "Getting and Cleaning Data." 
 
